@@ -1,0 +1,27 @@
+{
+  "name": "rob-scrape-news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "7.5.0",
+    "npm": "4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertobrooks/ScrapeNews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertobrooks/ScrapeNews/issues"
+  },
+  "homepage": "https://github.com/robertobrooks/ScrapeNews#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
