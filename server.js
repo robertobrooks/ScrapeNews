@@ -74,8 +74,8 @@ app.get("/scrape", function(req, res) {
 
 // Listen on port 3000
 
-const PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 8080;
 
 app.listen(PORT, function() {
-  console.log("App running on port 3000!");
+  console.log("App running on port 8080!");
 });

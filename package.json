@@ -21,7 +21,10 @@
     "url": "https://github.com/robertobrooks/ScrapeNews/issues"
   },
   "homepage": "https://github.com/robertobrooks/ScrapeNews#readme",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.15.4",
+    "request": "^2.82.0"
+  },
   "devDependencies": {},
   "description": ""
 }
